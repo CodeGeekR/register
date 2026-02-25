@@ -5,6 +5,7 @@
         "discord": "768080481924677632"
     },
     "record": {
-        "TXT": "vc-domain-verify=pythonweb.is-a.dev,395acbd091553c5523bb"
+        "A": ["216.198.79.1"],
+        "TXT": ["vc-domain-verify=www.pythonweb.is-a.dev,aeff939fd8c9984b44cc"]
     }
 }
